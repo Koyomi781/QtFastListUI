@@ -7,6 +7,7 @@ It can creat a concise Qlistwidget interface, Including the sidebar
 *其中包括简洁美观的侧边栏，让你更快的把很多可以折叠起来的窗口整合到一个页面上，并把这个页面
 绑定到左侧的侧边栏上
 *欢迎大家使用本项目整合制作一些工具
+  
 
 # 效果演示
 ![1](./images/1.png)  
