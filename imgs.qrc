@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>uisource/source/无效用户.svg</file>
+    <file>uisource/source/减去（无框）.svg</file>
+    <file>uisource/source/取消（关闭）.svg</file>
+    <file>uisource/source/首页A.svg</file>
+    <file>uisource/source/向下.svg</file>
+    <file>uisource/source/向右.svg</file>
+    <file>uisource/source/退出登录.svg</file>
+    <file>uisource/source/bilibili.svg</file>
+    <file>uisource/source/github.svg</file>
+    <file>uisource/source/icon-kfckfc.svg</file>
+  </qresource>
+</RCC>

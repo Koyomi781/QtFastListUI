@@ -1,0 +1,36 @@
+QFrame#left > QPushButton{
+	font: 75 11pt "Microsoft YaHei UI";
+	border:none;
+}
+QFrame#left > QPushButton::checked{
+    background-color: rgb(217, 217, 217);
+	border-right:5px solid rgb(75, 150, 200);
+}
+QFrame#left > QPushButton::hover{
+    background-color: rgb(217, 217, 217);
+	border-right:5px solid rgb(85, 170, 255);
+}
+QFrame#left > QPushButton::pressed{
+	padding-left:3px;
+	padding-top:3px;
+	border-right:5px solid rgb(75, 150, 200);
+}
+
+QStackedWidget > QListWidget{
+    border:none;
+}
+
+QPushButton#rightbtn{
+    text-align:left;
+    font: 75 11pt "Microsoft YaHei UI";
+    background-color: rgb(217, 217, 217);
+    border: 1px solid grey;
+    border-radius:5px;
+}
+QPushButton#rightbtn::checked{
+    background-color: rgb(255, 255, 255);
+}
+QPushButton#rightbtn::hover{
+    background-color: rgb(217, 217, 217);
+}
+
