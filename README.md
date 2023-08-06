@@ -19,8 +19,8 @@ It can creat a concise Qlistwidget interface, Including the sidebar
 ### 2. 添加侧边栏并绑定创建好的页面的函数
 ![2](./images/2.png)  
 
-### 3. 通过调用重写的QListWidget类，和上面的函数，将创建好的页面（这里使用[widget.py](./widgets)文件里面创建好的TestWidget窗口做演示）
-* 注意创建普通窗口和list窗口的用法!，普通窗口的创建以[widget.py](./widgets)文件里面创建好的HomePage窗口做演示
+### 3. 通过调用重写的QListWidget类，和上面的函数，将创建好的页面（这里使用[widgets.py](./widgets.py)文件里面创建好的TestWidget窗口做演示）
+* 注意创建普通窗口和list窗口的用法!，普通窗口的创建以[widgets.py](./widgets.py)文件里面创建好的HomePage窗口做演示
 ![3](./images/3.png)
 
 ### 4. 下面是通过3，创建的窗口实例
