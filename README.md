@@ -16,7 +16,7 @@ It can creat a concise Qlistwidget interface, Including the sidebar
 ### 1. 重写的QListWidgets,QPushButton类
 ![1](./images/1.png)  
 
-### 2. 创建侧边栏，并绑定创建好的页面
+### 2. 添加侧边栏并绑定创建好的页面的函数
 ![2](./images/2.png)  
 
 ### 3. 通过调用重写的QListWidget类，和上面的函数，将创建好的页面（这里使用[widget.py](./widgets)文件里面创建好的TestWidget窗口做演示）
