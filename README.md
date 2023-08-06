@@ -1,7 +1,7 @@
 # QtFastListUI
 It can creat a concise Qlistwidget interface, Including the sidebar
 
-# 介绍/Introduction
+# 介绍
 **感谢浏览本项目**  
 * 该项目是基于pyqt5，通过重写QListWidgets,QPushButton类，实现快捷创建一个简洁的折叠窗口
 
@@ -12,7 +12,7 @@ It can creat a concise Qlistwidget interface, Including the sidebar
   
 
 # 效果演示
-* 主程序为MainWindow.py，其中使用了qt designer制作了简单的基础界面，ui文件为Mainui.ui，并通过qtuic转换为同名的py文件
+* 主程序为MainWindow.py，其中使用了qt designer制作了简单的基础界面，ui文件为Mainui.ui，并通过qtuic转换为同名的py文件，大家可通过ui文件修改一些细节
 ### 1. 重写的QListWidgets,QPushButton类
 ![1](./images/1.png)  
 
@@ -23,4 +23,8 @@ It can creat a concise Qlistwidget interface, Including the sidebar
 * 注意创建普通窗口和list窗口的用法!，普通窗口的创建以[widget.py](./widgets)文件里面创建好的HomePage窗口做演示
 ![3](./images/3.png)
 
-### 4. 
+### 4. 下面是通过3，创建的窗口实例
+* 添加的普通页面
+![5](./images/5.png)
+* 添加的列表页面
+![4](./images/4.png)
