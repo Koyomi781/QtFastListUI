@@ -10,4 +10,5 @@ It can creat a concise Qlistwidget interface, Including the sidebar
   
 
 # 效果演示
+* 主程序为MainWindow.py，其中使用了qt designer制作了简单的基础界面，ui文件为Mainui.ui，并通过qtuic转换为同名的py文件，
 ![1](./images/1.png)  
